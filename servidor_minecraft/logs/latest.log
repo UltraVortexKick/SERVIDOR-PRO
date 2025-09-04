@@ -406,3 +406,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [02:57:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
 [02:58:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by GeoGlitchKick
 [02:58:00] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[02:58:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[02:58:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Assimilated Enderman
+[02:58:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Disconnected
+[02:58:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
