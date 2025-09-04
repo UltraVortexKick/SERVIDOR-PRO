@@ -371,3 +371,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [02:16:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick has reached the goal [Final Stage]
 [02:17:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Disconnected
 [02:17:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
+[02:24:15] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[02:24:15] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 27 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,techguns_core@1.12.2-1.0,mcp@9.42,nocubessrpnests@3.0.0,journeymap@1.12.2-5.7.1p3,placeableitems@3.3,securitycraft@v1.10,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,srparasites@1.9.21,llibrary@1.7.20,waila@1.8.26,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,simpletomb@1.12.2-1.0.0,playerrevive@1.0,netherite1_12_2@1.1,overlast@0.2.9,techguns@2.0.2.0
+[02:24:15] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[02:24:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:24:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: GeoGlitchKick[/127.196.72.114:52765] logged in with entity id 205167 at (-387.0771576916958, 63.0, 171.1791076315088)
+[02:24:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick joined the game
+[02:24:16] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/205167, l='world', x=-387.08, y=63.00, z=171.18] connected. Sending ping
+[02:26:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick has made the advancement [Cover Me With Diamonds]
