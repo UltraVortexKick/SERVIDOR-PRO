@@ -352,3 +352,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [01:48:12] [Server thread/INFO] [OverLast]: Loaded world data. Current season is AUTUMN and we are 1 days into this season.
 [01:48:12] [Server thread/INFO] [FML]: Unloading dimension -1
 [01:48:12] [Server thread/INFO] [FML]: Unloading dimension 1
+[02:07:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[02:07:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[02:07:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[02:07:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[02:07:17] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[02:07:17] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 27 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,techguns_core@1.12.2-1.0,mcp@9.42,nocubessrpnests@3.0.0,journeymap@1.12.2-5.7.1p3,placeableitems@3.3,securitycraft@v1.10,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,srparasites@1.9.21,llibrary@1.7.20,waila@1.8.26,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,simpletomb@1.12.2-1.0.0,playerrevive@1.0,netherite1_12_2@1.1,overlast@0.2.9,techguns@2.0.2.0
+[02:07:17] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[02:07:18] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:07:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: GeoGlitchKick[/127.196.72.114:53425] logged in with entity id 497 at (-388.62865523286433, 63.0, 171.83797825536428)
+[02:07:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick joined the game
+[02:07:18] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/497, l='world', x=-388.63, y=63.00, z=171.84] connected. Sending ping

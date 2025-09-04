@@ -13427,3 +13427,94 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 
 [01:57:22] [Server thread/DEBUG] [FML]: The world 3a51eb1e (world) may have leaked: seen 55 times.
 
+[01:57:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:58:12] [Server thread/DEBUG] [FML]: The world 55da9a1 (world) may have leaked: seen 60 times.
+
+[01:58:12] [Server thread/DEBUG] [FML]: The world 3a51eb1e (world) may have leaked: seen 60 times.
+
+[01:58:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:59:02] [Server thread/DEBUG] [FML]: The world 55da9a1 (world) may have leaked: seen 65 times.
+
+[01:59:02] [Server thread/DEBUG] [FML]: The world 3a51eb1e (world) may have leaked: seen 65 times.
+
+[01:59:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:59:52] [Server thread/DEBUG] [FML]: The world 55da9a1 (world) may have leaked: seen 70 times.
+
+[01:59:52] [Server thread/DEBUG] [FML]: The world 3a51eb1e (world) may have leaked: seen 70 times.
+
+[02:00:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:00:42] [Server thread/DEBUG] [FML]: The world 55da9a1 (world) may have leaked: seen 75 times.
+
+[02:00:42] [Server thread/DEBUG] [FML]: The world 3a51eb1e (world) may have leaked: seen 75 times.
+
+[02:00:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:01:32] [Server thread/DEBUG] [FML]: The world 55da9a1 (world) may have leaked: seen 80 times.
+
+[02:01:32] [Server thread/DEBUG] [FML]: The world 3a51eb1e (world) may have leaked: seen 80 times.
+
+[02:01:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:02:22] [Server thread/DEBUG] [FML]: The world 55da9a1 (world) may have leaked: seen 85 times.
+
+[02:02:22] [Server thread/DEBUG] [FML]: The world 3a51eb1e (world) may have leaked: seen 85 times.
+
+[02:02:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:03:12] [Server thread/DEBUG] [FML]: The world 55da9a1 (world) may have leaked: seen 90 times.
+
+[02:03:12] [Server thread/DEBUG] [FML]: The world 3a51eb1e (world) may have leaked: seen 90 times.
+
+[02:03:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:03:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:04:02] [Server thread/DEBUG] [FML]: The world 55da9a1 (world) may have leaked: seen 95 times.
+
+[02:04:02] [Server thread/DEBUG] [FML]: The world 3a51eb1e (world) may have leaked: seen 95 times.
+
+[02:04:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:04:52] [Server thread/DEBUG] [FML]: The world 55da9a1 (world) may have leaked: seen 100 times.
+
+[02:04:52] [Server thread/DEBUG] [FML]: The world 3a51eb1e (world) may have leaked: seen 100 times.
+
+[02:05:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:05:42] [Server thread/DEBUG] [FML]: The world 55da9a1 (world) may have leaked: seen 105 times.
+
+[02:05:42] [Server thread/DEBUG] [FML]: The world 3a51eb1e (world) may have leaked: seen 105 times.
+
+[02:06:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:06:32] [Server thread/DEBUG] [FML]: The world 55da9a1 (world) may have leaked: seen 110 times.
+
+[02:06:32] [Server thread/DEBUG] [FML]: The world 3a51eb1e (world) may have leaked: seen 110 times.
+
+[02:06:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:07:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[02:07:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[02:07:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[02:07:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[02:07:17] [Server thread/DEBUG] [mixin]: Mixing passcode.NetHandlerPlayServerMixin from securitycraft.mixins.json into net.minecraft.network.NetHandlerPlayServer
+[02:07:17] [Server thread/TRACE] [mixin]: Added class metadata for net/minecraft/util/ITickable to metadata cache
+[02:07:17] [Server thread/TRACE] [mixin]: Added class metadata for net/minecraft/network/play/INetHandlerPlayServer to metadata cache
+[02:07:17] [Server thread/TRACE] [mixin]: Added class metadata for net/minecraft/network/INetHandler to metadata cache
+[02:07:17] [Server thread/TRACE] [mixin]: Added class metadata for net/minecraft/util/text/TextComponentTranslation to metadata cache
+[02:07:17] [Server thread/TRACE] [mixin]: Added class metadata for java/lang/String to metadata cache
+[02:07:17] [Server thread/TRACE] [mixin]: Added class metadata for net/minecraft/util/text/TextComponentBase to metadata cache
+[02:07:17] [Server thread/TRACE] [mixin]: Added class metadata for java/lang/Exception to metadata cache
+[02:07:17] [Server thread/TRACE] [mixin]: Added class metadata for java/lang/Throwable to metadata cache
+[02:07:17] [Server thread/TRACE] [mixin]: Added class metadata for net/minecraft/tileentity/CommandBlockBaseLogic to metadata cache
+[02:07:17] [Server thread/TRACE] [FML]: Handshake channel activating
+[02:07:17] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[02:07:17] [Server thread/DEBUG] [FML]:   Next: HELLO
+[02:07:17] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[02:07:17] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[02:07:17] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:27 mods->FMLHandshakeServerState$2:HELLO
+[02:07:17] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 27 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,techguns_core@1.12.2-1.0,mcp@9.42,nocubessrpnests@3.0.0,journeymap@1.12.2-5.7.1p3,placeableitems@3.3,securitycraft@v1.10,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,srparasites@1.9.21,llibrary@1.7.20,waila@1.8.26,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,simpletomb@1.12.2-1.0.0,playerrevive@1.0,netherite1_12_2@1.1,overlast@0.2.9,techguns@2.0.2.0
+[02:07:17] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[02:07:17] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[02:07:17] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[02:07:17] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[02:07:18] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[02:07:18] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[02:07:18] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[02:07:18] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:07:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: GeoGlitchKick[/127.196.72.114:53425] logged in with entity id 497 at (-388.62865523286433, 63.0, 171.83797825536428)
+[02:07:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick joined the game
+[02:07:18] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[02:07:18] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/497, l='world', x=-388.63, y=63.00, z=171.84] connected. Sending ping
+[02:07:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
