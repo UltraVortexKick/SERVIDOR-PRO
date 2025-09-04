@@ -13518,3 +13518,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [02:07:18] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [02:07:18] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/497, l='world', x=-388.63, y=63.00, z=171.84] connected. Sending ping
 [02:07:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:08:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:09:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:09:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:10:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:11:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:11:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[02:12:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:12:44] [Server thread/INFO] [OverLast]: Saving data to disk.
+[02:12:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Fall, day 2.
+[02:12:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unfortunately, the north camp was captured again, but luckily, they had an additional holy place to jump from buildings.
+[02:12:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for fall.
+[02:12:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:13:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:14:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:15:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:15:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:16:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick has reached the goal [Final Stage]
+[02:16:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:17:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Disconnected
+[02:17:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
+[02:17:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

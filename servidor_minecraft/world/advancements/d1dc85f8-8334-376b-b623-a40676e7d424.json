@@ -318,6 +318,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-09-04 02:10:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-09-03 07:56:01 +0000"
@@ -783,6 +789,12 @@
     },
     "done": true
   },
+  "netherite1_12_2:finalstage": {
+    "criteria": {
+      "finalstage": "2025-09-04 02:16:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-09-03 07:56:01 +0000"
@@ -792,6 +804,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-09-03 07:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2025-09-04 02:10:30 +0000"
     },
     "done": true
   },
