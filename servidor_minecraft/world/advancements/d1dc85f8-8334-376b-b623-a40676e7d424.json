@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advgorepart": {
+    "criteria": {
+      "advgorepart": "2025-09-04 02:30:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-09-03 07:56:44 +0000"
@@ -224,6 +230,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-09-03 07:58:22 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advplasmatorch": {
+    "criteria": {
+      "advplasmatorch": "2025-09-04 02:29:24 +0000"
     },
     "done": true
   },
@@ -287,6 +299,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advtwistedgreataxe": {
+    "criteria": {
+      "advtwistedgreataxe": "2025-09-04 02:29:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-09-03 07:59:00 +0000"
@@ -302,6 +320,12 @@
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2025-09-03 07:55:32 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advmimicblade": {
+    "criteria": {
+      "advmimicblade": "2025-09-04 02:32:35 +0000"
     },
     "done": true
   },
@@ -339,6 +363,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-09-03 07:57:24 +0000"
+    },
+    "done": true
+  },
+  "nocubessrpsurvival:advwalkingeffigy": {
+    "criteria": {
+      "advwalkingeffigy": "2025-09-04 02:32:10 +0000"
     },
     "done": true
   },
@@ -474,6 +504,18 @@
     },
     "done": true
   },
+  "nocubessrparmory:advtwisteddagger": {
+    "criteria": {
+      "advtwisteddagger": "2025-09-04 02:29:30 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advadaptivearmor": {
+    "criteria": {
+      "advadaptivearmor": "2025-09-04 02:34:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-03 07:58:19 +0000"
@@ -573,6 +615,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advtwistedmallet": {
+    "criteria": {
+      "advtwistedmallet": "2025-09-04 02:29:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-09-03 07:59:00 +0000"
@@ -588,6 +636,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-09-03 07:56:44 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advmimicbladered": {
+    "criteria": {
+      "advmimicbladered": "2025-09-04 02:33:19 +0000"
     },
     "done": true
   },
@@ -633,6 +687,12 @@
     },
     "done": true
   },
+  "nocubessrpnests:advmachetekills": {
+    "criteria": {
+      "advmachetekills": "2025-09-04 02:35:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-09-03 07:56:01 +0000"
@@ -654,6 +714,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-09-03 07:56:01 +0000"
+    },
+    "done": true
+  },
+  "nocubessrpsurvival:advsliceanddice": {
+    "criteria": {
+      "advsliceanddice": "2025-09-04 02:32:08 +0000"
     },
     "done": true
   },
@@ -789,6 +855,12 @@
     },
     "done": true
   },
+  "nocubessrpnests:advnewpickaxe": {
+    "criteria": {
+      "advnewpickaxe": "2025-09-04 02:35:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-09-03 07:57:24 +0000"
@@ -798,6 +870,18 @@
   "netherite1_12_2:finalstage": {
     "criteria": {
       "finalstage": "2025-09-04 02:16:25 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advevolutionarmor": {
+    "criteria": {
+      "advevolutionarmor": "2025-09-04 02:33:57 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advmimicbladegreen": {
+    "criteria": {
+      "advmimicbladegreen": "2025-09-04 02:33:17 +0000"
     },
     "done": true
   },
@@ -837,6 +921,12 @@
     },
     "done": true
   },
+  "nocubessrpsurvival:advinsatiablehunger": {
+    "criteria": {
+      "advinsatiablehunger": "2025-09-04 02:32:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-09-03 07:59:00 +0000"
@@ -870,6 +960,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-03 07:58:19 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advtwistedarmor": {
+    "criteria": {
+      "advtwistedarmor": "2025-09-04 02:29:36 +0000"
     },
     "done": true
   },
