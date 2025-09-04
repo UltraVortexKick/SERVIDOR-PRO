@@ -13591,3 +13591,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [02:36:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [02:36:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [02:37:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:38:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:38:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[02:39:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:39:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:40:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:41:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:41:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[02:42:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:42:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[02:42:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[02:42:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:43:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:44:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:44:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[02:45:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:45:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -8.776485178344046,0.7967356006687112,4.810745038575334
+[02:45:42] [Server thread/INFO] [OverLast]: Saving data to disk.
+[02:45:42] [Server thread/INFO] [OverLast]: It's raining now. It's false that it is thundering. It'll last for 16404 ticks.
+[02:45:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Winter, day 1.
+[02:45:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Has the radiation exceeded the standard? Can't the mouse be caught? Have cannibals been planted? None of these are problems! Contact the doom kitchen to give you the enjoyment before the end of the world! Now it also provides meal delivery service!
+[02:45:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yesterday was windy, today is snowy, I hope your funeral is not this cruel silver gray.
+[02:45:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick has made the advancement [Not Today, Thank You]
+[02:45:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:46:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick has made the advancement [Monster Hunter]
+[02:46:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:47:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
