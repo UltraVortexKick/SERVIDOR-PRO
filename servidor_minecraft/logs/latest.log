@@ -397,3 +397,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [02:45:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yesterday was windy, today is snowy, I hope your funeral is not this cruel silver gray.
 [02:45:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick has made the advancement [Not Today, Thank You]
 [02:46:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick has made the advancement [Monster Hunter]
+[02:49:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 38494176-6a29-497c-be73-875dfa186510
+[02:57:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[02:57:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Assimilated Enderman
+[02:57:36] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[02:57:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[02:57:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Assimilated Enderman
+[02:57:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[02:58:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by GeoGlitchKick
+[02:58:00] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
