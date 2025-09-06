@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-09-06 01:36:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-09-03 07:59:00 +0000"
@@ -362,7 +368,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-09-03 08:01:19 +0000",
-      "apple": "2025-09-03 07:57:38 +0000"
+      "apple": "2025-09-03 07:57:38 +0000",
+      "bread": "2025-09-06 01:36:39 +0000"
     },
     "done": false
   },
@@ -411,6 +418,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-09-03 07:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-09-06 01:36:37 +0000"
     },
     "done": true
   },
@@ -552,15 +565,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/string_to_wool": {
-    "criteria": {
-      "has_string": "2025-09-04 02:46:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-09-04 02:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2025-09-04 02:46:10 +0000"
     },
     "done": true
   },
@@ -930,6 +943,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "spider": "2025-09-04 02:46:10 +0000",
+      "creeper": "2025-09-06 01:32:11 +0000",
       "enderman": "2025-09-04 02:57:13 +0000"
     },
     "done": false
