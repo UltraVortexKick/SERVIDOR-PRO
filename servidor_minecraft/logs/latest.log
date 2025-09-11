@@ -528,3 +528,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [15:17:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
 [15:17:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect spell for 1 times]
 [15:17:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:block.stone.hit' to GeoGlitchKick]
+[15:25:35] [Server thread/INFO] [OverLast]: Saving data to disk.
+[15:25:35] [Server thread/INFO] [OverLast]: It's raining now. It's true that it is thundering. It'll last for 16231 ticks.
+[15:25:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Summer, day 1.
+[15:25:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: I don't know if you have time to sit down and listen to me talk about our great God... The Flying Spaghetti Monster! I'm so hungry!
+[15:25:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Crazy hot outside, remember wear sunscreen when you go out.
+[15:29:36] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
