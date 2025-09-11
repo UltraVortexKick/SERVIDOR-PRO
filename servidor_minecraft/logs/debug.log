@@ -13426,3 +13426,100 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 
 [15:04:36] [Server thread/DEBUG] [FML]: The world 3b014cf7 (world) may have leaked: seen 55 times.
 
+[15:05:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:05:26] [Server thread/DEBUG] [FML]: The world d72a847 (world) may have leaked: seen 60 times.
+
+[15:05:26] [Server thread/DEBUG] [FML]: The world 3b014cf7 (world) may have leaked: seen 60 times.
+
+[15:05:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:06:16] [Server thread/DEBUG] [FML]: The world d72a847 (world) may have leaked: seen 65 times.
+
+[15:06:16] [Server thread/DEBUG] [FML]: The world 3b014cf7 (world) may have leaked: seen 65 times.
+
+[15:06:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:07:06] [Server thread/DEBUG] [FML]: The world d72a847 (world) may have leaked: seen 70 times.
+
+[15:07:06] [Server thread/DEBUG] [FML]: The world 3b014cf7 (world) may have leaked: seen 70 times.
+
+[15:07:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:07:56] [Server thread/DEBUG] [FML]: The world d72a847 (world) may have leaked: seen 75 times.
+
+[15:07:56] [Server thread/DEBUG] [FML]: The world 3b014cf7 (world) may have leaked: seen 75 times.
+
+[15:08:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:08:46] [Server thread/DEBUG] [FML]: The world d72a847 (world) may have leaked: seen 80 times.
+
+[15:08:46] [Server thread/DEBUG] [FML]: The world 3b014cf7 (world) may have leaked: seen 80 times.
+
+[15:08:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:09:36] [Server thread/DEBUG] [FML]: The world d72a847 (world) may have leaked: seen 85 times.
+
+[15:09:36] [Server thread/DEBUG] [FML]: The world 3b014cf7 (world) may have leaked: seen 85 times.
+
+[15:09:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:09:46] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[15:09:46] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[15:09:46] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[15:09:46] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[15:09:46] [Server thread/DEBUG] [mixin]: Mixing passcode.NetHandlerPlayServerMixin from securitycraft.mixins.json into net.minecraft.network.NetHandlerPlayServer
+[15:09:46] [Server thread/TRACE] [mixin]: Added class metadata for net/minecraft/util/ITickable to metadata cache
+[15:09:46] [Server thread/TRACE] [mixin]: Added class metadata for net/minecraft/network/play/INetHandlerPlayServer to metadata cache
+[15:09:46] [Server thread/TRACE] [mixin]: Added class metadata for net/minecraft/network/INetHandler to metadata cache
+[15:09:46] [Server thread/TRACE] [mixin]: Added class metadata for net/minecraft/util/text/TextComponentTranslation to metadata cache
+[15:09:46] [Server thread/TRACE] [mixin]: Added class metadata for java/lang/String to metadata cache
+[15:09:46] [Server thread/TRACE] [mixin]: Added class metadata for net/minecraft/util/text/TextComponentBase to metadata cache
+[15:09:46] [Server thread/TRACE] [mixin]: Added class metadata for java/lang/Exception to metadata cache
+[15:09:46] [Server thread/TRACE] [mixin]: Added class metadata for java/lang/Throwable to metadata cache
+[15:09:46] [Server thread/TRACE] [mixin]: Added class metadata for net/minecraft/tileentity/CommandBlockBaseLogic to metadata cache
+[15:09:46] [Server thread/TRACE] [FML]: Handshake channel activating
+[15:09:46] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[15:09:46] [Server thread/DEBUG] [FML]:   Next: HELLO
+[15:09:46] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[15:09:46] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[15:09:46] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:27 mods->FMLHandshakeServerState$2:HELLO
+[15:09:46] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 27 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,techguns_core@1.12.2-1.0,mcp@9.42,nocubessrpnests@3.0.0,journeymap@1.12.2-5.7.1p3,placeableitems@3.3,securitycraft@v1.10,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,srparasites@1.9.21,llibrary@1.7.20,waila@1.8.26,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,simpletomb@1.12.2-1.0.0,playerrevive@1.0,netherite1_12_2@1.1,overlast@0.2.9,techguns@2.0.2.0
+[15:09:46] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[15:09:46] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[15:09:46] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[15:09:46] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[15:09:48] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[15:09:48] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[15:09:48] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[15:09:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:09:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: GeoGlitchKick[/127.196.72.114:50913] logged in with entity id 478 at (-355.9453577699354, 65.0, 182.64992364389508)
+[15:09:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick joined the game
+[15:09:48] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[15:09:48] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/478, l='world', x=-355.95, y=65.00, z=182.65] connected. Sending ping
+[15:10:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:10:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:10:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:10:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:10:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:10:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:10:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:10:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:10:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:10:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:10:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:10:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:10:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:10:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:10:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:10:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:10:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:10:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:10:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:10:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:10:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:10:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[15:11:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:11:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:12:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:13:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:13:27] [Server thread/INFO] [OverLast]: Saving data to disk.
+[15:13:27] [Server thread/INFO] [OverLast]: Rain is on the way in 7229 ticks.
+[15:13:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 3.
+[15:13:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: howdy howdy Doom City, have you found some bugs on the ground? Don't worry about them threatening your food, because you may not need other food soon!
+[15:13:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spring is here again, and it's time for animals to wake up from their hibernation. I mean, be careful with creatures from underground!
+[15:14:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:14:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
