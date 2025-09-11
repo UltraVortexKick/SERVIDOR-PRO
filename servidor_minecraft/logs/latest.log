@@ -538,3 +538,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [15:36:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Summer, day 2.
 [15:36:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: May this hot summer be over soon. May the endless wind and snow never stop, and may we live in this land for a long time until we go to the next planet. Cheers up!
 [15:36:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Crazy hot outside, remember wear sunscreen when you go out.
+[15:48:38] [Server thread/INFO] [OverLast]: Saving data to disk.
+[15:48:38] [Server thread/INFO] [OverLast]: Rain is on the way in 8660 ticks.
+[15:48:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Summer, day 3.
+[15:48:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Think the radio station is boring and want to change channels? Sorry, this is a compulsory program! just listen just listen(。・ω・。)
+[15:48:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Great time for a BBQ party, isn't it?
+[15:50:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Disconnected
+[15:50:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
