@@ -13585,3 +13585,108 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [22:24:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:25:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:26:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Spectator Mode]
+[22:26:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:26:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[22:27:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:27:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Spectator Mode]
+[22:27:37] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[22:27:40] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[22:27:43] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[22:27:50] [Server thread/WARN] [FML]: Techguns loaded a new chunk [0, -61] in dimension 0 (overworld) while populating chunk [0, -64], causing cascading worldgen lag.
+[22:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:27:50] [Server thread/WARN] [FML]: Techguns loaded a new chunk [1, -64] in dimension 0 (overworld) while populating chunk [0, -64], causing cascading worldgen lag.
+[22:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:27:50] [Server thread/WARN] [FML]: Techguns loaded a new chunk [1, -63] in dimension 0 (overworld) while populating chunk [0, -64], causing cascading worldgen lag.
+[22:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:27:50] [Server thread/WARN] [FML]: Techguns loaded a new chunk [1, -62] in dimension 0 (overworld) while populating chunk [0, -64], causing cascading worldgen lag.
+[22:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:27:50] [Server thread/WARN] [FML]: Techguns loaded a new chunk [1, -61] in dimension 0 (overworld) while populating chunk [0, -64], causing cascading worldgen lag.
+[22:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:27:50] [Server thread/WARN] [FML]: Techguns loaded a new chunk [2, -64] in dimension 0 (overworld) while populating chunk [0, -64], causing cascading worldgen lag.
+[22:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:27:50] [Server thread/WARN] [FML]: Techguns loaded a new chunk [2, -63] in dimension 0 (overworld) while populating chunk [0, -64], causing cascading worldgen lag.
+[22:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:27:50] [Server thread/WARN] [FML]: Techguns loaded a new chunk [2, -62] in dimension 0 (overworld) while populating chunk [0, -64], causing cascading worldgen lag.
+[22:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:27:50] [Server thread/WARN] [FML]: Techguns loaded a new chunk [2, -61] in dimension 0 (overworld) while populating chunk [0, -64], causing cascading worldgen lag.
+[22:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:27:50] [Server thread/WARN] [FML]: Techguns loaded a new chunk [3, -64] in dimension 0 (overworld) while populating chunk [0, -64], causing cascading worldgen lag.
+[22:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:27:50] [Server thread/WARN] [FML]: Techguns loaded a new chunk [3, -63] in dimension 0 (overworld) while populating chunk [0, -64], causing cascading worldgen lag.
+[22:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:27:50] [Server thread/WARN] [FML]: Techguns loaded a new chunk [3, -62] in dimension 0 (overworld) while populating chunk [0, -64], causing cascading worldgen lag.
+[22:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:27:50] [Server thread/WARN] [FML]: Techguns loaded a new chunk [3, -61] in dimension 0 (overworld) while populating chunk [0, -64], causing cascading worldgen lag.
+[22:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:27:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:28:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[22:28:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:28:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[22:28:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Spectator Mode]
+[22:29:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 13.47449148239761,-39.0,50.326991434272486
+[22:29:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -160.5255085176024,13.0,1211.3269914342725
+[22:29:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[22:29:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:30:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:30:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:31:33] [Server thread/INFO] [OverLast]: Saving data to disk.
+[22:31:33] [Server thread/INFO] [OverLast]: Rain is on the way in 876 ticks.
+[22:31:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Winter, day 3.
+[22:31:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unfortunately, the north camp was captured again, but luckily, they had an additional holy place to jump from buildings.
+[22:31:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mankind will prevail! Parasitic beasts can't defeat humans!
+[22:31:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:31:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <GeoGlitchKick> hola
+[22:32:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[22:32:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:33:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:33:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:34:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:35:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:36:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
