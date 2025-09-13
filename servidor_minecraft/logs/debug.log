@@ -13563,3 +13563,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [22:15:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for winter.
 [22:15:49] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
 [22:15:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:16:23] [Server thread/WARN] [FML]: SRP: Nests Addon (by NoCube) loaded a new chunk [-17, -58] in dimension 0 (overworld) while populating chunk [-17, -59], causing cascading worldgen lag.
+[22:16:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:16:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:17:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick has made the advancement [Suit Up]
+[22:17:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick has made the advancement [Ice Bucket Challenge]
+[22:17:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:17:52] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[22:18:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:18:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:19:01] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[22:19:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:19:46] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[22:20:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:21:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:21:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:22:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:22:49] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[22:23:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:24:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:24:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:25:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:26:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Spectator Mode]
