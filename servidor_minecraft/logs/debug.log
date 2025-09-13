@@ -13540,3 +13540,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [22:03:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:04:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:05:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:06:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:06:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:07:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:08:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:09:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:09:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:10:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:11:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:11:42] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[22:11:52] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[22:12:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:12:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:13:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[22:13:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:14:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:14:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[22:15:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:15:20] [Server thread/INFO] [OverLast]: Saving data to disk.
+[22:15:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Winter, day 2.
+[22:15:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dear survivors, according to the latest information, please be alert to the partner who has been separated from you for more than a day. He may no longer be him.
+[22:15:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for winter.
+[22:15:49] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[22:15:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
