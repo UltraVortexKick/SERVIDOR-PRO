@@ -370,3 +370,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [21:14:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID a3699eb1-0090-4877-ba4d-2ed95ef06381
 [21:21:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
 [21:23:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
+[21:29:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[21:29:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[21:29:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Killed GeoGlitchKick]
+[21:29:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick fell out of the world
+[21:29:49] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[21:32:00] [Server thread/INFO] [OverLast]: Saving data to disk.
+[21:32:00] [Server thread/INFO] [OverLast]: Rain is on the way in 1934 ticks.
+[21:32:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Fall, day 2.
+[21:32:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wake dafaq up samora, we've gott a city to burn!
+[21:32:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: howdy howdy Doom City, have you found some bugs on the ground? Don't worry about them threatening your food, because you may not need other food soon!
+[21:32:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for fall.
