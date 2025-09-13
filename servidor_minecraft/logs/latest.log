@@ -506,3 +506,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [22:31:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mankind will prevail! Parasitic beasts can't defeat humans!
 [22:31:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <GeoGlitchKick> hola
 [22:32:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[22:44:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Timed out
+[22:44:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
