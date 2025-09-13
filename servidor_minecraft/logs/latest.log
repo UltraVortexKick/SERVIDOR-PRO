@@ -381,3 +381,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [21:32:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wake dafaq up samora, we've gott a city to burn!
 [21:32:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: howdy howdy Doom City, have you found some bugs on the ground? Don't worry about them threatening your food, because you may not need other food soon!
 [21:32:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for fall.
+[21:41:28] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[21:43:05] [Server thread/INFO] [OverLast]: Saving data to disk.
+[21:43:05] [Server thread/INFO] [OverLast]: It's raining now. It's false that it is thundering. It'll last for 10324 ticks.
+[21:43:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Fall, day 3.
+[21:43:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:  They  life and growth in nature
+[21:43:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for fall.
