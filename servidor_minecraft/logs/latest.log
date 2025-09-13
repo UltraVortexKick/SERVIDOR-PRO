@@ -368,3 +368,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [21:12:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Let's start a new day in the land of broken dreams ! So is anyone in touch? Radio Doom is always waiting for your contact!
 [21:12:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for fall.
 [21:14:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID a3699eb1-0090-4877-ba4d-2ed95ef06381
+[21:21:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Creative Mode]
+[21:23:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [GeoGlitchKick: Set own game mode to Survival Mode]
