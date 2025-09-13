@@ -13504,3 +13504,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [21:44:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:45:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:45:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:46:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:47:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:48:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:48:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:49:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:49:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 53784092-4fed-4f6b-9b25-58b0843e2b13
+[21:50:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:51:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:51:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:52:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:53:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:54:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:54:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:55:20] [Server thread/INFO] [OverLast]: Saving data to disk.
+[21:55:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Winter, day 1.
+[21:55:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dear survivors, according to the latest information, please be alert to the partner who has been separated from you for more than a day. He may no longer be him.
+[21:55:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for winter.
+[21:55:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
