@@ -363,3 +363,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [01:41:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: GeoGlitchKick[/127.100.251.230:54855] logged in with entity id 509 at (-393.8206981607249, 63.0, 167.02658703509283)
 [01:41:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick joined the game
 [01:41:36] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/509, l='world', x=-393.82, y=63.00, z=167.03] connected. Sending ping
+[01:56:42] [Server thread/INFO] [OverLast]: Saving data to disk.
+[01:56:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 1.
+[01:56:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: May this hot summer be over soon. May the endless wind and snow never stop, and may we live in this land for a long time until we go to the next planet. Cheers up!
+[01:56:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Winter has passed, it's time to get ready for the final battle!
