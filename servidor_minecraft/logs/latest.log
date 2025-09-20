@@ -476,3 +476,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [21:57:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -1.84088579330745,-3.910368854331722,-9.612062428913333
 [22:00:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -3.6263262858368535,-1.0999999999999375,-9.686604441430887
 [22:00:31] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[22:01:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 1.7293538243158082,-1.0999999999999375,-10.844486668132049
+[22:01:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -2.9498491990797504,-1.299999999999926,9.756794586788828
+[22:03:02] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:1
+[22:03:02] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:1
+[22:03:03] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:1
+[22:03:03] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:1
+[22:08:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Disconnected
+[22:08:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game

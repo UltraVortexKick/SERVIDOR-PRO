@@ -16347,3 +16347,97 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [22:00:19] [Server thread/DEBUG] [FML]: The world 3978e29a (world) may have leaked: seen 55 times.
 
 [22:00:31] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[22:00:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:01:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! 1.7293538243158082,-1.0999999999999375,-10.844486668132049
+[22:01:09] [Server thread/DEBUG] [FML]: The world 8789b48 (world) may have leaked: seen 60 times.
+
+[22:01:09] [Server thread/DEBUG] [FML]: The world 9fa3419 (world) may have leaked: seen 60 times.
+
+[22:01:09] [Server thread/DEBUG] [FML]: The world 3978e29a (world) may have leaked: seen 60 times.
+
+[22:01:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick moved too quickly! -2.9498491990797504,-1.299999999999926,9.756794586788828
+[22:01:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:01:59] [Server thread/DEBUG] [FML]: The world 8789b48 (world) may have leaked: seen 65 times.
+
+[22:01:59] [Server thread/DEBUG] [FML]: The world 9fa3419 (world) may have leaked: seen 65 times.
+
+[22:01:59] [Server thread/DEBUG] [FML]: The world 3978e29a (world) may have leaked: seen 65 times.
+
+[22:02:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:02:49] [Server thread/DEBUG] [FML]: The world 8789b48 (world) may have leaked: seen 70 times.
+
+[22:02:49] [Server thread/DEBUG] [FML]: The world 9fa3419 (world) may have leaked: seen 70 times.
+
+[22:02:49] [Server thread/DEBUG] [FML]: The world 3978e29a (world) may have leaked: seen 70 times.
+
+[22:03:02] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:1
+[22:03:02] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:1
+[22:03:03] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:1
+[22:03:03] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:1
+[22:03:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:03:39] [Server thread/DEBUG] [FML]: The world 8789b48 (world) may have leaked: seen 75 times.
+
+[22:03:39] [Server thread/DEBUG] [FML]: The world 9fa3419 (world) may have leaked: seen 75 times.
+
+[22:03:39] [Server thread/DEBUG] [FML]: The world 3978e29a (world) may have leaked: seen 75 times.
+
+[22:03:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:04:29] [Server thread/DEBUG] [FML]: The world 8789b48 (world) may have leaked: seen 80 times.
+
+[22:04:29] [Server thread/DEBUG] [FML]: The world 9fa3419 (world) may have leaked: seen 80 times.
+
+[22:04:29] [Server thread/DEBUG] [FML]: The world 3978e29a (world) may have leaked: seen 80 times.
+
+[22:04:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:05:19] [Server thread/DEBUG] [FML]: The world 8789b48 (world) may have leaked: seen 85 times.
+
+[22:05:19] [Server thread/DEBUG] [FML]: The world 9fa3419 (world) may have leaked: seen 85 times.
+
+[22:05:19] [Server thread/DEBUG] [FML]: The world 3978e29a (world) may have leaked: seen 85 times.
+
+[22:05:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:06:09] [Server thread/DEBUG] [FML]: The world 8789b48 (world) may have leaked: seen 90 times.
+
+[22:06:09] [Server thread/DEBUG] [FML]: The world 9fa3419 (world) may have leaked: seen 90 times.
+
+[22:06:09] [Server thread/DEBUG] [FML]: The world 3978e29a (world) may have leaked: seen 90 times.
+
+[22:06:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:06:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:06:59] [Server thread/DEBUG] [FML]: The world 8789b48 (world) may have leaked: seen 95 times.
+
+[22:06:59] [Server thread/DEBUG] [FML]: The world 9fa3419 (world) may have leaked: seen 95 times.
+
+[22:06:59] [Server thread/DEBUG] [FML]: The world 3978e29a (world) may have leaked: seen 95 times.
+
+[22:07:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:07:49] [Server thread/DEBUG] [FML]: The world 8789b48 (world) may have leaked: seen 100 times.
+
+[22:07:49] [Server thread/DEBUG] [FML]: The world 9fa3419 (world) may have leaked: seen 100 times.
+
+[22:07:49] [Server thread/DEBUG] [FML]: The world 3978e29a (world) may have leaked: seen 100 times.
+
+[22:08:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Disconnected
+[22:08:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
+[22:08:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:08:39] [Server thread/DEBUG] [FML]: The world 8789b48 (world) may have leaked: seen 105 times.
+
+[22:08:39] [Server thread/DEBUG] [FML]: The world 9fa3419 (world) may have leaked: seen 105 times.
+
+[22:08:39] [Server thread/DEBUG] [FML]: The world 3978e29a (world) may have leaked: seen 105 times.
+
+[22:09:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:09:29] [Server thread/DEBUG] [FML]: The world 8789b48 (world) may have leaked: seen 110 times.
+
+[22:09:29] [Server thread/DEBUG] [FML]: The world 9fa3419 (world) may have leaked: seen 110 times.
+
+[22:09:29] [Server thread/DEBUG] [FML]: The world 3978e29a (world) may have leaked: seen 110 times.
+
+[22:09:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:10:19] [Server thread/DEBUG] [FML]: The world 8789b48 (world) may have leaked: seen 115 times.
+
+[22:10:19] [Server thread/DEBUG] [FML]: The world 9fa3419 (world) may have leaked: seen 115 times.
+
+[22:10:19] [Server thread/DEBUG] [FML]: The world 3978e29a (world) may have leaked: seen 115 times.
+
+[22:10:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
