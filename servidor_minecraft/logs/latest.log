@@ -370,3 +370,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [02:42:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 2.
 [02:42:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Five more minutes to sleep, five more minutes, five more minutes, five more minutes, five more minutes, five more minutes.
 [02:42:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for spring.
+[02:54:27] [Server thread/INFO] [OverLast]: Saving data to disk.
+[02:54:27] [Server thread/INFO] [OverLast]: Rain is on the way in 986 ticks.
+[02:54:27] [Server thread/INFO] [OverLast]: It's raining now. It's false that it is thundering. It'll last for 10012 ticks.
+[02:54:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 3.
+[02:54:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: I don't know if you have time to sit down and listen to me talk about our great God... The Flying Spaghetti Monster! I'm so hungry!
+[02:54:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Winter has passed, it's time to get ready for the final battle!
