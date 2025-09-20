@@ -1530,6 +1530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2025-09-20 03:17:34 +0000"
+    },
+    "done": true
+  },
   "nocubessrpsurvival:advsliceanddice": {
     "criteria": {
       "advsliceanddice": "2025-09-04 02:32:08 +0000"
@@ -1755,6 +1761,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-09-03 07:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2025-09-20 03:21:52 +0000"
     },
     "done": true
   },
