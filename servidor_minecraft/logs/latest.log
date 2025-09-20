@@ -376,3 +376,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [02:54:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 3.
 [02:54:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: I don't know if you have time to sit down and listen to me talk about our great God... The Flying Spaghetti Monster! I'm so hungry!
 [02:54:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Winter has passed, it's time to get ready for the final battle!
+[03:05:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Disconnected
+[03:05:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
+[03:09:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:09:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:09:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[03:09:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[03:09:36] [Server thread/INFO] [FML]: Unloading dimension 0
+[03:09:36] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:09:36] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:09:36] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
