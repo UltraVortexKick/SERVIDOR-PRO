@@ -820,6 +820,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2025-09-20 22:22:45 +0000",
+      "slime": "2025-09-20 22:33:05 +0000",
       "skeleton": "2025-09-13 22:08:00 +0000",
       "husk": "2025-09-20 02:35:43 +0000",
       "zombie": "2025-09-06 02:15:06 +0000",
@@ -1305,6 +1306,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-09-20 22:33:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-09-04 02:46:10 +0000"
@@ -1446,6 +1453,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-09-06 02:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-09-20 22:33:08 +0000"
     },
     "done": true
   },
