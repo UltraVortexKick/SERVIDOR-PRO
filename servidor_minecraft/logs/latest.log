@@ -483,3 +483,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [16:33:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Fall, day 3.
 [16:33:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Has the radiation exceeded the standard? Can't the mouse be caught? Have cannibals been planted? None of these are problems! Contact the doom kitchen to give you the enjoyment before the end of the world! Now it also provides meal delivery service!
 [16:33:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for fall.
+[16:46:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Disconnected
+[16:46:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
