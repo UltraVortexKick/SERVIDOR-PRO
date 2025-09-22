@@ -495,3 +495,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [03:36:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick joined the game
 [03:36:28] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/564741, l='world', x=-374.42, y=63.00, z=169.09] connected. Sending ping
 [03:36:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Player 'GeolitckKick' cannot be found
+[03:39:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Timed out
+[03:39:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
