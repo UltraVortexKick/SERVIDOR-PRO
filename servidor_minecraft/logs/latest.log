@@ -473,3 +473,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [03:12:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: GeoGlitchKick[/127.100.251.230:47045] logged in with entity id 506 at (-381.2912607116336, 64.0, 168.9023689608625)
 [03:12:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick joined the game
 [03:12:43] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/506, l='world', x=-381.29, y=64.00, z=168.90] connected. Sending ping
+[03:29:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[03:29:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick is bleeding...
+[03:29:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <GeoGlitchKick> bruhhh
+[03:29:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick was slain by Adapted Yelloweye
+[03:29:16] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[03:31:09] [Server thread/INFO] [OverLast]: Saving data to disk.
+[03:31:09] [Server thread/INFO] [OverLast]: Rain is on the way in 1189 ticks.
+[03:31:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Winter, day 1.
+[03:31:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: {carzy lanugh} Now, the whole world is on fire hahahaha...... {crazy laugh}
+[03:31:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for winter.
+[03:33:56] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:0
+[03:34:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GeoGlitchKick lost connection: Disconnected
+[03:34:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick left the game
+[03:35:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Player 'GeoGlitchKick' cannot be found
+[03:36:26] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[03:36:26] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 28 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,extrautils2@1.0,techguns_core@1.12.2-1.0,mcp@9.42,nocubessrpnests@3.0.0,journeymap@1.12.2-5.7.1p3,placeableitems@3.3,securitycraft@v1.10,travelersbackpack@1.0.35,FML@8.0.99.99,obfuscate@0.4.2,srparasites@1.9.21,llibrary@1.7.20,waila@1.8.26,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,simpletomb@1.12.2-1.0.0,playerrevive@1.0,netherite1_12_2@1.1,overlast@0.2.9,techguns@2.0.2.0
+[03:36:26] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
+[03:36:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:36:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: GeoGlitchKick[/127.100.251.230:54529] logged in with entity id 564741 at (-374.41518191670303, 63.0, 169.08877779883673)
+[03:36:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GeoGlitchKick joined the game
+[03:36:28] [Server thread/INFO] [Waila]: Player EntityPlayerMP['GeoGlitchKick'/564741, l='world', x=-374.42, y=63.00, z=169.09] connected. Sending ping
+[03:36:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Player 'GeolitckKick' cannot be found
